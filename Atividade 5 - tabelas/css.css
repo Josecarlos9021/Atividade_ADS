@@ -1,0 +1,61 @@
+.tabela{
+	text-align: center;
+	color: mediumpurple;
+}
+.fundo{
+	background-image: url(./imagens/win1.jpg);
+}
+th{
+	color: white;
+	border: 2px solid darkred;
+	padding: 8px;
+}
+table{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	table-layout: fixed;
+	margin-top: 50px;
+}
+
+/* Cores do 'dólar' */
+
+tr.dolar{
+	background-color: purple;
+	height: 50px;
+}
+th.dolar29{
+	background-color: mediumpurple;
+}
+th.dolar59{
+	background-color: blueviolet;
+}
+
+/* 'Cores do 'escolher plano' */
+
+th.tabela1{
+	background-color: mediumpurple;
+}
+th.tabela2{
+	background-color: blueviolet;
+}
+th.tabela3{
+	background-color: purple;
+	height: 20px;
+}
+
+/* tabela 2 */
+
+th.pnome, .ted{
+	background-color: plum;
+}
+
+/* tabela 3 */
+
+th.telefone2, .nome{
+	background-color: rebeccapurple;
+}
+th.junior, .ted2{
+	background-color: goldenrod;
+}
